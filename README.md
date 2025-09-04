@@ -42,37 +42,3 @@ Direct podcast publishing options
 
 Episode analytics & engagement insights
 
-🌟 PROJECT STRUCTURE
-mini project 2/
-│
-├── manage.py
-├── db.sqlite3
-├── README.md
-│
-├── podcast/                     
-│   ├── __pycache__/
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── podcast_generator/           
-│   ├── __pycache__/
-│   ├── migrations/
-│   │   └── __init__.py
-│   ├── static/                  
-│   │   ├── css/
-│   │   │   └── style.css
-│   │   └── js/
-│   │       └── script.js
-│   ├── templates/               
-│   │   └── podcast_generator/
-│   │       └── home.html
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
